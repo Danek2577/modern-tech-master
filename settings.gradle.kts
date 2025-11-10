@@ -1,1 +1,1 @@
-rootProject.name = "modern-tech"
+rootProject.name = "korenkov-sovr-tech"
